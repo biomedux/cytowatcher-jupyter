@@ -1,0 +1,204 @@
+2017-11-22 15:49:23---Sever is disconnected!
+2017-11-22 15:49:42---Sever is connected!
+2017-11-22 15:49:43---Sever is disconnected!
+2017-11-22 15:57:48---Sever is disconnected!
+2017-11-22 15:57:50---Sever is disconnected!
+2017-11-22 15:57:50---Sever is disconnected!
+2017-11-27 22:35:04---Sever is connected!
+2017-11-27 22:35:44---finish request--Culture Server is not on recording!
+2017-11-27 22:35:47---Sever is connected!
+2017-11-27 22:35:48---Sever is disconnected!
+2017-11-27 22:38:39---Sever is connected!
+2017-11-27 22:40:43---Sever is connected!
+2017-11-27 22:41:49---Sever is connected!
+2017-11-27 22:43:26---Sever is disconnected!
+2017-11-27 22:43:26---Sever is connected!
+
+2017-11-27 22:43:44---Sever is disconnected!
+2017-11-27 22:43:44---Sever is connected!
+2017-11-27 22:44:29---Sever is connected!
+2017-11-27 22:44:29---Sever is disconnected!
+2017-11-27 23:03:31---Sever is connected!
+2017-11-27 23:27:07---Recording is started
+2017-11-27 23:37:14---deadline passed and finished!
+2017-11-27 23:40:11---Sever is connected!
+2017-11-28 00:53:57---Sever is connected!
+2017-11-28 00:53:58---Sever is disconnected!
+2017-11-28 01:30:26---Sever is connected!
+2017-11-28 01:30:43---Recording is started
+2017-11-28 01:40:51---deadline passed and finished!
+2017-11-28 01:44:40---finish request--Culture Server is not on recording!
+2017-11-28 01:44:43---Sever is connected!
+2017-11-28 01:54:20---Sever is connected!
+2017-11-28 01:54:31---Recording is started
+2017-11-28 01:57:13---Sever is connected!
+2017-11-28 01:57:21---Recording is started
+2017-11-28 02:07:30---deadline passed and finished!
+2017-11-29 15:06:23---Sever is connected!
+2017-11-29 15:06:56---Recording is started
+2017-11-29 15:07:19---Sever is connected!
+2017-11-29 15:07:20---finish request arrive finished!
+2017-11-29 15:07:30---Sever is connected!
+2017-11-29 15:07:31---Sever is disconnected!
+2017-11-29 15:15:39---Sever is connected!
+2017-11-29 15:15:52---Recording is started
+2017-11-29 15:16:57---finish request arrive finished!
+2017-11-29 15:17:12---Recording is started
+2017-11-29 15:19:36---Sever is connected!
+2017-11-29 15:19:46---Recording is started
+2017-11-29 15:21:26---finish request arrive finished!
+2017-11-29 15:21:34---Recording is started
+2017-11-29 15:21:55---Sever is connected!
+2017-11-29 15:22:04---Recording is started
+2017-11-29 15:22:50---Sever is connected!
+2017-11-29 15:22:58---Recording is started
+2017-11-29 15:23:49---Sever is connected!
+2017-11-29 15:23:58---Recording is started
+2017-11-29 15:25:33---Sever is connected!
+2017-11-29 15:25:45---Recording is started
+2017-11-29 15:26:12---finish request arrive finished!
+2017-11-29 15:26:29---Recording is started
+2017-11-29 15:33:00---Sever is connected!
+2017-11-29 15:33:13---Recording is started
+2017-11-29 15:34:28---Sever is connected!
+2017-11-29 15:34:34---Recording is started
+2017-11-29 15:43:39---Sever is connected!
+2017-11-29 15:43:51---Recording is started
+2017-11-29 15:45:31---Sever is connected!
+2017-11-29 15:46:45---Sever is connected!
+2017-11-29 15:46:53---Recording is started
+2017-11-29 15:47:42---Sever is connected!
+2017-11-29 15:47:49---Recording is started
+2017-11-29 15:49:41---Sever is connected!
+2017-11-29 15:49:59---Recording is started
+2017-11-29 15:50:51---Sever is connected!
+2017-11-29 15:50:59---Recording is started
+2017-11-29 15:52:37---Sever is connected!
+2017-11-29 15:52:43---Recording is started
+2017-11-29 15:56:38---Sever is connected!
+2017-11-29 15:56:45---Recording is started
+2017-11-29 16:01:00---Sever is connected!
+2017-11-29 16:01:06---Recording is started
+2017-11-29 16:03:42---Sever is connected!
+2017-11-29 16:03:53---Recording is started
+2017-11-29 16:05:03---Sever is connected!
+2017-11-29 16:05:09---Recording is started
+2017-11-29 16:15:19---deadline passed and finished!
+2017-11-29 16:24:57---Sever is connected!
+2017-11-29 16:25:09---Recording is started
+2017-11-29 16:29:06---Sever is connected!
+2017-11-29 16:29:13---Recording is started
+2017-11-29 16:39:16---deadline passed and finished!
+2017-11-29 18:55:28---Sever is connected!
+2017-11-29 18:55:34---Recording is started
+2017-11-29 18:56:44---deadline passed and finished!
+2017-11-29 18:59:43---Sever is connected!
+2017-11-29 18:59:51---Recording is started
+2017-11-29 19:01:01---deadline passed and finished!
+2017-11-29 21:05:36---Sever is connected!
+2017-11-29 21:05:47---Recording is started
+2017-11-29 21:06:57---deadline passed and finished!
+2017-11-29 21:08:05---Sever is connected!
+2017-11-29 21:08:18---Sever is connected!
+2017-11-29 21:08:29---Recording is started
+2017-11-29 21:09:39---deadline passed and finished!
+2017-11-29 23:15:58---Sever is connected!
+2017-11-29 23:16:05---Recording is started
+2017-11-29 23:16:25---Recording is started
+2017-11-29 23:16:45---Recording is started
+2017-11-29 23:17:21---Sever is connected!
+2017-11-29 23:17:27---Recording is started
+2017-11-29 23:17:46---Recording is started
+2017-11-29 23:18:06---Recording is started
+2017-11-29 23:33:41---Sever is connected!
+2017-11-29 23:33:52---Recording is started
+2017-11-29 23:34:11---Recording is started
+2017-11-29 23:34:30---Recording is started
+2017-11-29 23:34:50---Recording is started
+2017-11-29 23:35:09---Recording is started
+2017-11-29 23:35:29---Recording is started
+2017-11-29 23:35:48---Recording is started
+2017-11-29 23:36:08---Recording is started
+2017-11-29 23:36:29---Recording is started
+2017-11-29 23:36:48---Recording is started
+2017-11-29 23:37:55---Sever is connected!
+2017-11-29 23:38:15---Recording is started
+2017-11-29 23:38:34---Recording is started
+2017-11-29 23:45:03---Sever is connected!
+2017-11-29 23:45:11---Recording is started
+2017-11-29 23:47:40---Sever is connected!
+2017-11-29 23:47:53---Recording is started
+2017-11-29 23:49:37---Sever is connected!
+2017-11-29 23:49:47---Recording is started
+2017-11-29 23:50:58---Sever is connected!
+2017-11-29 23:51:03---Recording is started
+2017-11-29 23:51:51---Sever is connected!
+2017-11-29 23:51:56---Recording is started
+2017-11-29 23:54:06---Sever is connected!
+2017-11-29 23:54:13---Recording is started
+2017-11-29 23:55:27---Sever is connected!
+2017-11-29 23:55:32---Recording is started
+2017-11-29 23:58:39---Sever is connected!
+2017-11-29 23:58:45---Recording is started
+2017-11-30 00:04:24---Sever is connected!
+2017-11-30 00:04:35---Recording is started
+2017-11-30 00:06:58---Culture Server is on recording! Finish first
+2017-11-30 00:09:12---Sever is connected!
+2017-11-30 00:09:20---Recording is started
+2017-11-30 00:10:17---Sever is connected!
+2017-11-30 00:11:09---Recording is started
+2017-11-30 00:14:07---Sever is connected!
+2017-11-30 00:14:13---Recording is started
+2017-11-30 00:17:25---Sever is connected!
+2017-11-30 00:17:31---Recording is started
+2017-11-30 00:19:27---Sever is connected!
+2017-11-30 00:19:33---Recording is started
+2017-11-30 00:33:09---Sever is connected!
+2017-11-30 00:33:09---Sever is disconnected!
+2017-11-30 00:33:33---Sever is connected!
+2017-11-30 00:33:33---Sever is disconnected!
+2017-11-30 00:34:16---Sever is connected!
+2017-11-30 00:34:23---Recording is started
+2017-11-30 00:37:16---Sever is connected!
+2017-11-30 00:37:23---Recording is started
+2017-11-30 00:38:18---Sever is connected!
+2017-11-30 00:38:32---Recording is started
+2017-11-30 00:53:30---Sever is connected!
+2017-11-30 00:53:37---Recording is started
+2017-11-30 00:58:40---Sever is connected!
+2017-11-30 00:59:25---Sever is connected!
+2017-11-30 00:59:30---Recording is started
+2017-11-30 01:01:29---Sever is connected!
+2017-11-30 01:01:37---Recording is started
+2017-11-30 01:32:23---Sever is connected!
+2017-11-30 01:32:28---Recording is started
+2017-11-30 01:42:34---deadline passed and finished!
+2017-11-30 03:22:44---Sever is disconnected!
+2017-11-30 03:23:52---Sever is connected!
+2017-11-30 03:24:04---Recording is started
+2017-11-30 03:25:07---deadline passed and finished!
+2017-11-30 03:39:20---Sever is connected!
+2017-11-30 03:39:26---Recording is started
+2017-11-30 03:40:34---deadline passed and finished!
+2017-11-30 03:47:45---Sever is connected!
+2017-11-30 03:47:55---Recording is started
+2017-11-30 03:49:05---deadline passed and finished!
+2017-11-30 03:54:08---Sever is connected!
+2017-11-30 03:54:14---Recording is started
+2017-11-30 03:55:23---deadline passed and finished!
+2017-11-30 17:46:17---Sever is connected!
+2017-11-30 17:46:24---Recording is started
+2017-11-30 17:48:23---finish request arrive finished!
+2017-11-30 17:48:37---Recording is started
+2017-11-30 17:56:10---Culture Server is on recording! Finish first
+2017-11-30 17:56:36---Sever is connected!
+2017-11-30 17:56:43---Recording is started
+2017-11-30 18:06:13---finish request arrive finished!
+2017-11-30 18:31:51---Sever is disconnected!
+2017-11-30 20:51:35---Sever is connected!
+2017-11-30 20:51:44---Recording is started
+2017-11-30 21:01:48---deadline passed and finished!
+2017-12-07 12:02:58---Sever is disconnected!
+2017-12-09 04:51:18---Sever is connected!
+2017-12-09 04:51:27---Recording is started
+2017-12-09 05:01:29---deadline passed and finished!
